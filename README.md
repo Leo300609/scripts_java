@@ -1,4 +1,3 @@
-```markdown
 # ☕ Variáveis em Java
 
 Um repositório prático para estudos e demonstração dos conceitos fundamentais de **variáveis, tipos de dados e operadores na linguagem Java**.
